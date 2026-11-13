@@ -22,6 +22,6 @@ The Home Page and Career Page have been completed. I will continue working on th
 this is my home_page which have been completed as for now
 ![Home Page](Home_page.PNG)
 
-# Career Page#
+# Career Page##
 this is my career_page which have been completed as for now
-![Career Page](Career_page.png)
+![Career Page](Career_page.PNG)
